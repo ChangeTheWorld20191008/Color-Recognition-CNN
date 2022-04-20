@@ -1,6 +1,4 @@
 import cv2
-import colorsys
-import random
 import os
 from PIL import Image
 import numpy as np
